@@ -1,0 +1,1 @@
+#asgn10 - namesThis program is an exercise for school to practice PHP concepts: arrays, functions
